@@ -1,2 +1,2 @@
 # bounce
-A small HTML5 mashup for my portfolio with objects that bounce
+A small HTML5 game that has players/enemies/everything(?) bounce.
